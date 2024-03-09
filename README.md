@@ -19,7 +19,7 @@ el proyecto fue creado con [OpenCV](https://opencv.org/)
 - OpenCV
 
 
-## isntalacion
+## instalacion
 1. Clona el repositorio en tu maquina local
 ```bash
 $ git clone https://github.com/DaironRV/contador-monedas-camara.git
